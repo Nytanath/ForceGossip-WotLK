@@ -1,0 +1,6 @@
+## Interface: 30300
+## Title: ForceGossip
+## Notes: Always forces NPCs to show their gossip text, if they have one
+## Author: Nytanath
+
+ForceGossip.lua
